@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import '../pages/home_page.dart';
-import '../pages/buku_page.dart';
-import '../pages/profile_page.dart';
-import '../pages/peminjaman_page.dart';
+import 'home_page.dart';
+import 'buku_page.dart';
+import 'peminjaman_page.dart';
+import 'profile_page.dart';
 
 class MainPage extends StatefulWidget {
   @override

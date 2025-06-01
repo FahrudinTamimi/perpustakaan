@@ -18,7 +18,7 @@ class _MainPageState extends State<MainPage> {
     HomePage(),
     BukuPage(),
     PeminjamanPage(),
-    ProfilePage(),
+    ProfilePage(), // ProfilePage akan mengambil datanya sendiri
   ];
 
   @override
